@@ -1,0 +1,4 @@
+Este patrón define un conjunto de algoritmos, encapsula cada uno de ellos y los hace intercambiables. 
+Permite que el algoritmo pueda variar independientemente de los clientes que lo utilicen.
+
+Recuerda: Un algoritmo encapsulado es una estrategia
